@@ -1,4 +1,4 @@
-# Credencial Digital - Laboratorio Box Model
+# Credencial Digital - Laboratorio Box Model - Practico
 
 Proyecto de credencial de identificación digital desarrollado con HTML5 y CSS3 para practicar el **Box Model**, maquetación responsiva, Flexbox, pseudoelementos y animaciones suaves.
 
